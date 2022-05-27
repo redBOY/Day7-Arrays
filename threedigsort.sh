@@ -1,5 +1,4 @@
 #!/bin/bash -x
-
 n=10;
 function arraygen() {
 count=0
