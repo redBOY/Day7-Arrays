@@ -1,4 +1,5 @@
 #!/bin/bash -x
+
 function factor_check(){
 if [ $input -lt 1 ];then
 echo "not allowed"
