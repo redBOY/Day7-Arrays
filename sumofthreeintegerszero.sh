@@ -1,4 +1,5 @@
 #!/bin/bash -x
+
 function store() {
 count=0;
 echo "enter an array of elements: "
